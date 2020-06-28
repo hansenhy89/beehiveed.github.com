@@ -1,3 +1,52 @@
-.header {
-    text-align:center;
+body {
+	font-family:calibri;
+	margin:0;
+	}
+
+div {
+	background:#feffe6;
+	width:100%;
 }
+
+a{
+	text-decoration:none;
+	color:#003a61;
+}
+
+.first {
+
+	width:285px;
+}
+.second {
+	padding:13px;
+}
+
+.navigation {
+	display:flex;
+}
+
+img {
+
+	max-width: 65px;
+	margin:auto;
+	vertical-align: middle;
+}
+
+.logo {
+	font-size:20px;
+	margin-left: 8px;
+	vertical-align: middle;
+}
+
+.sub {
+	vertical-align: middle;
+	padding:8px;
+}
+
+#container {
+	margin: 0px auto;
+	width: 500px;
+	height: 375px;
+	border: 10px #333 solid;
+}
+
